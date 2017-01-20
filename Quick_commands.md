@@ -45,10 +45,30 @@ Paste: Shift+Insert
 Paste: xclip -o > file.txt
 ```
 
-#### Secondary = Clipboard
+#### Secondary (clipboard)
 
 ```
+Copy:  mouse right click, Copy
 Copy:  Shift+Ctrl+C
 Copy:  ls | xclip -selection clipboard
+Paste: mouse right click, Paste
 Paste: Shift+Ctrl+V
+```
+
+#### Primary & Secondary
+
+```
+Copy: select with mouse & Shift+Ctrl+C
+```
+
+#### Chrome ULR bar links
+
+```
+Note: first mouse selection (the authomatic one) does not goes into Primary
+
+Copy to Primary:  you need to re-select 
+Copy to Secondary: CTRL+C (not Shift+Ctrl+C
+
+Paste from Primary: cetral mouse button
+Paste from Secondary: CTRL+V, Shift+Ctrl+V
 ```
