@@ -1,13 +1,16 @@
 get your public ip
+
 `
 curl -Ss icanhazip.com
 `
 
-# changing dirs
+changing dirs
+
 `
 cd -
 push /home
 `
+
 # back to /home
 popd
 
