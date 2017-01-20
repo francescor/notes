@@ -32,7 +32,9 @@ sudo yum install the_silver_searcher
 ag TODO
 ```
 
-## Copy & Paste in terminal
+## Copy & Paste 
+Environment: Fedora 25 terminal with default shortcuts enabled
+(without shortcuts, Shift+Ctrl+C & Shift+Ctrl+V do not work, while Shift+Insert always works)
 
 #### Primary (mouse)
 
