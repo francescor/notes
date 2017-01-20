@@ -11,24 +11,38 @@ cd -
 push /home
 `
 
-# back to /home
+back to /home
+
+`
 popd
+`
 
-# files
+files
+
+`
 nautilis .
+`
 
-# similar to grep 
-#   sudo yum install the_silver_searcher
+similar to grep 
+
+`sudo yum install the_silver_searcher
 ag TODO
+`
 
-# Copy & Paste in terminal
+Copy & Paste in terminal
 
-# Primary (mouse)
+Primary (mouse)
+
+`
 Copy: select area with mouse
 Paste: central mouse button
 Paste: Shift+Insert
+`
 
-# Secondary = Clipboard
+Secondary = Clipboard
+
+`
 Copy:  Shift+Ctrl+C
 Paste: Shift+Ctrl+V
 Paste: Shift+Insert  (always work!) 
+`
