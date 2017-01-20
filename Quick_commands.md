@@ -74,3 +74,16 @@ Copy to Secondary: CTRL+C (not Shift+Ctrl+C
 Paste from Primary: cetral mouse button
 Paste from Secondary: CTRL+V, Shift+Ctrl+V
 ```
+
+## Byobu
+
+```
+Shift-F1  Display help
+Shift-F2  Horizontal split
+Ctrl-F2   Vertical split
+Shift-Left/Right/Up/Down     Move focus among splits
+Alt-PageUp/PageDown          Enter and move through scrollback (in splits)
+    Alt-F11                      Expand split to a full window
+    Shift-F11                    Zoom into a split, zoom out of a split
+
+```
