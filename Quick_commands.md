@@ -1,3 +1,5 @@
+## Commands
+
 get your public ip
 
 `
@@ -25,7 +27,8 @@ nautilis .
 
 similar to grep 
 
-`sudo yum install the_silver_searcher
+`
+sudo yum install the_silver_searcher
 ag TODO
 `
 
