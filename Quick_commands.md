@@ -29,7 +29,7 @@ similar to grep
 ag TODO
 `
 
-Copy & Paste in terminal
+## Copy & Paste in terminal
 
 Primary (mouse)
 
