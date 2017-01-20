@@ -38,14 +38,17 @@ ag TODO
 
 ```
 Copy: select area with mouse
+Copy: cat file | xclip
+Copy: ls | xclip
 Paste: central mouse button
 Paste: Shift+Insert
+Paste: xclip -o > file.txt
 ```
 
 #### Secondary = Clipboard
 
 ```
 Copy:  Shift+Ctrl+C
+Copy:  ls | xclip -selection clipboard
 Paste: Shift+Ctrl+V
-Paste: Shift+Insert  (always work!) 
 ```
