@@ -82,8 +82,12 @@ Shift-F1  Display help
 Shift-F2  Horizontal split
 Ctrl-F2   Vertical split
 Shift-Left/Right/Up/Down     Move focus among splits
+Shift-Alt-Left/Right/Up/Down Resize a split
+Ctrl-F3/F4                   Move a split
+
 Alt-PageUp/PageDown          Enter and move through scrollback (in splits)
     Alt-F11                      Expand split to a full window
     Shift-F11                    Zoom into a split, zoom out of a split
+    
 
 ```
