@@ -89,5 +89,6 @@ Alt-PageUp/PageDown          Enter and move through scrollback (in splits)
     Alt-F11                      Expand split to a full window
     Shift-F11                    Zoom into a split, zoom out of a split
     
-
 ```
+
+more at https://gist.github.com/devhero/7b9a7281db0ac4ba683f
