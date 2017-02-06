@@ -1,3 +1,7 @@
+## Links
+
+http://www.yolinux.com/TUTORIALS/LinuxTutorialSysAdmin.html#FIND
+
 ## Commands
 
 get your public ip
